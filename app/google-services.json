@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "846267387298",
+    "firebase_url": "https://completelogin-35039.firebaseio.com",
+    "project_id": "completelogin-35039",
+    "storage_bucket": "completelogin-35039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846267387298:android:a9ae3bd2a0521418",
+        "android_client_info": {
+          "package_name": "com.example.bharatghimire.completelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846267387298-u6tlg66skoq9lgdlqbmn997gqif95r49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharatghimire.completelogin",
+            "certificate_hash": "DC84E2E0828047C3048E760701C7E34B927EF972"
+          }
+        },
+        {
+          "client_id": "846267387298-mgncho5103glr0hcrm9h3hn3ku3l2jjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ENGgMNBngBHEUMbg_lQY0gUe36_Cdos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
